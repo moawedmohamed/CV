@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Techno Shield/Desktop/opp.c++",
-      "program": "c:/Users/Techno Shield/Desktop/opp.c++/build/Debug/outDebug",
+      "cwd": "c:/Users/Techno Shield/Desktop/opp.c++/strcut/array",
+      "program": "c:/Users/Techno Shield/Desktop/opp.c++/strcut/array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

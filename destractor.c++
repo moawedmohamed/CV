@@ -10,7 +10,7 @@ public:
     {
         w = width;
         h = height;
-        cout << "Rectangle";
+        cout << "Rectangle " << endl;
     }
     ~Rectangle()
     {
